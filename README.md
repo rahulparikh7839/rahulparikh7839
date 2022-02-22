@@ -1,4 +1,4 @@
-Download multiple packages usinh Home Brew bundle 
+Download multiple packages using Home Brew bundle 
 
 tree
 git
